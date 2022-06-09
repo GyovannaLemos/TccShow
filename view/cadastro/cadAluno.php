@@ -39,7 +39,7 @@
                         <h1 class="cad_titulo"> Dados de Aluno </h1>
                     </center>
 
-                    <form class="row g-3 cad_form" method="POST" action="/TesteTCC2/control/inserirAluno.php">
+                    <form class="row g-3 cad_form" method="POST" action="/TccShow/control/inserirAluno.php">
                         <div class="col-md-12">
                             <label for="inputEmail4" class="form-label">Nome Completo</label>
                             <input style="text-transform: uppercase" type="text" class="form-control" name="cxNomeAluno" id="inputEmail4" placeholder="Insira seu nome completo" required>

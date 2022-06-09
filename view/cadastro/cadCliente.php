@@ -36,7 +36,7 @@
                         <h1 class="cad_titulo"> Cadastrar </h1>
                     </center>
 
-                    <form class="row g-3 cad_form" method="POST" action="/TesteTCC2/control/inserirCliente.php">
+                    <form class="row g-3 cad_form" method="POST" action="/TccShow/control/inserirCliente.php">
                         <div class="col-md-12">
                             <label for="inputEmail4" class="form-label">Nome Completo</label>
                             <input type="text" class="form-control" name="txt_NomeClient" id="inputEmail4" placeholder="Insira seu nome completo" required>
