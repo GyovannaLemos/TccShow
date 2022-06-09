@@ -9,7 +9,7 @@
     <title> TCC Show </title>
 
     <!-- Icone na head-->
-    <link rel="shortcut icon" href="/TesteTCC2/view/images/headIcone.ico">
+    <link rel="shortcut icon" href="../images/headIcone.ico">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="./bootstrap-5.0.1-dist/css/bootstrap.min.css" />
@@ -25,7 +25,7 @@
 
 <body>
     <?php
-    include('/xampp/htdocs/TesteTCC2/view/include/navBar.php');
+    include('./navCadastro.php');
 
     $cod = $_GET['cod'];
     ?>
@@ -112,7 +112,7 @@
     </main>
     <div class="cad_footerLyt" id="rodape">
         <?php
-        include_once("../include/footer.php");
+        include_once("./footerCadastro.php");
         ?>
     </div>
 </body>

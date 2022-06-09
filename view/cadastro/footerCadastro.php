@@ -24,9 +24,9 @@
             <h4>Contatos</h4>
 
             <div class="footer_socialLinks">
-                <a href="#"> <img src="../view/images/icone-facebook.png" /> </a>
-                <a href="https://www.instagram.com/tcc.show/?igshid=YmMyMTA2M2Y=" target="_blank"> <img src="../view/Images/icone-instagram.png" /> </a>
-                <a href="https://twitter.com/TccShow1?t=oobtvTmzupuSJ5ejxfjD_Q&s=08" target="_blank"> <img src="../view/Images/icone-twitter.png" /> </a>
+                <a href="#"> <img src="../images/icone-facebook.png" /> </a>
+                <a href="https://www.instagram.com/tcc.show/?igshid=YmMyMTA2M2Y=" target="_blank"> <img src="../images/icone-instagram.png" /> </a>
+                <a href="https://twitter.com/TccShow1?t=oobtvTmzupuSJ5ejxfjD_Q&s=08" target="_blank"> <img src="../images/icone-twitter.png" /> </a>
             </div>
         </div>
     </div>
@@ -34,9 +34,9 @@
     <div class="footer_traco b"></div>
 
     <div class="footer_copyright">
-        <a href="#topo" class="footer_imgTcc"><img src="../view/images/icone-footer_tccshow.png"> </a>
+        <a href="#topo" class="footer_imgTcc"><img src="../images/icone-footer_tccshow.png"> </a>
         <p class="footer_pCopyright"> Copyright © 2022 - Todos os direitos reservados<br>Proibida a reprodução total ou parcial sem prévia autorização (Inciso I do Artigo 29 - Lei 9.610/98) </p>
-        <a href="#topo" class="footer_gato"><img src="../view/images/icone-footerGatoCurioso.png"> </a>
+        <a href="#topo" class="footer_gato"><img src="../images/icone-footerGatoCurioso.png"> </a>
     </div>
 </footer>
 

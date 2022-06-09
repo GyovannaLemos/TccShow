@@ -9,7 +9,7 @@
     <title> TCC Show </title>
 
     <!-- Icone na head-->
-    <link rel="shortcut icon" href="/TesteTCC2/view/images/headIcone.ico">
+    <link rel="shortcut icon" href="../view/images/headIcone.ico">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="./bootstrap-5.0.1-dist/css/bootstrap.min.css" />
@@ -17,9 +17,9 @@
     <script src="./bootstrap-5.0.1-dist/js/bootstrap.bundle.min.js"> </script>
 
     <!-- Arquivo CSS Style -->
-    <link rel="stylesheet" href="../css/navBar.css">
-    <link rel="stylesheet" href="../css/footer.css">
-    <link rel="stylesheet" href="../css/repositorio.css">
+    <link rel="stylesheet" href="../view/css/navBar.css">
+    <link rel="stylesheet" href="../view/css/footer.css">
+    <link rel="stylesheet" href="../view/css/repositorio.css">
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
 </head>
@@ -27,7 +27,7 @@
 <body>
 
     <?php
-    include_once("../include/navBar.php");
+    include_once("./include/navBar.php");
     ?>
     <main class="fundo" id="fundo">
         <div class="rep-alinhamento">
@@ -70,7 +70,7 @@
         </div>
     </main>
     <div class="cad_footerLyt" id="rodape">
-        <?php include_once("../include/footer.php"); ?>
+        <?php include_once("./include/footer.php"); ?>
     </div>
 </body>
 <script src="../js/cadastro.js"></script>

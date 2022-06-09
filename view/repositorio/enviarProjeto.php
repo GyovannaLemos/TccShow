@@ -8,7 +8,7 @@
         <title> TCC Show </title>
         
         <!-- Icone na head-->
-        <link rel="shortcut icon" href="./Images/tccshow_ico.ico">
+        <link rel="shortcut icon" href="../view/images/headIcone.ico">
 
         <!-- Bootstrap CSS -->
         <link rel="stylesheet" type="text/css" href="./bootstrap-5.0.1-dist/css/bootstrap.min.css"/>

@@ -1,13 +1,13 @@
 
-    <link rel="stylesheet" href="../css/navBar.css">
+<link rel="stylesheet" href="../css/navBar.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" type="text/javascript"></script>
 
 <nav>
-    <a href="../view/index.php"><img src="../view/images/logoTCC-Navbar.png" class="nav_imgLogo" id="topo"></a>
+    <a href="../index.php"><img src="../images/logoTCC-Navbar.png" class="nav_imgLogo" id="topo"></a>
 
     <form class="nav_barraPesquisaLyt">
         <div>
-            <img src="../view/images/icone-pesquisa.png" class="nav_imgPesquisa" />
+            <img src="../images/icone-pesquisa.png" class="nav_imgPesquisa" />
             <input class="barraPesquisa" type="text" name="pesquisa" size="40" placeholder="Pesquise sua pergunta!">
             <input type="button" value="Pesquisa" class="btnPesquisa">
         </div>
@@ -20,15 +20,15 @@
     </div>
 
     <ul class="nav_linksLyt">
-        <li class="nav_link"><a href="../view/index.php" target="_self"> Início </a></li>
-        <li class="nav_link"><a href="../view/repositorio.php" target="_self"> Repositório </a></li>
-        <li class="nav_link"><a href="../view/sobre.php" target="_self"> Sobre </a></li>
-        <li class="nav_link"><a href="../view/login.php" target="_self">Login</li>
+        <li class="nav_link"><a href="../index.php" target="_self"> Início </a></li>
+        <li class="nav_link"><a href="../repositorio.php" target="_self"> Repositório </a></li>
+        <li class="nav_link"><a href="../sobre.php" target="_self"> Sobre </a></li>
+        <li class="nav_link"><a href="../login.php" target="_self">Login</li>
 
         <li><a href="../view/cadUsuario.php"> <button class="btnLogin" type="button"> Cadastrar-se </button> </a></li>
         <li><a href="#"> <button class="btnPerfil" type="button"> Perfil </button> </a></li>
 
-        <li><a href="#"> <img src="../view/images/icone-engrenagem.png" class="nav_imgEngre"> </a> </li>
+        <li><a href="#"> <img src="../images/icone-engrenagem.png" class="nav_imgEngre"> </a> </li>
     </ul>
 </nav>
 
